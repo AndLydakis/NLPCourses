@@ -9,4 +9,6 @@ Collection of NLP courses and Mini Projects
     * [Attentions](./NLP_TransformerModels/attentions)
         * [Cross product attention](./NLP_TransformerModels/attentions/attention_demo1.ipynb)
         * [Self attention](./NLP_TransformerModels/attentions/self_attention.ipynb)
+        * [Multi Headed Attention](./NLP_TransformerModels/attentions/attention_keras.ipynb)
+        * [seq2seq](./NLP_TransformerModels/attentions/seq2seq.ipynb)
     
