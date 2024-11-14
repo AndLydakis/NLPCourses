@@ -14,5 +14,9 @@ Collection of NLP courses and Mini Projects
     * [Transformers](./NLP_TransformerModels/transformers)
         * [Encoder/Decoder](./NLP_TransformerModels/transformers/transformers_1.ipynb)
         * [Huggingface](./NLP_TransformerModels/transformers/hugginface.ipynb)
+        * [Text Summarization](./NLP_TransformerModels/transformers/text_summarization.ipynb)
+* [Practical Applications of LLMs](./LLMS/)
+    * [OpenAI API](./LLMS/llm_1.ipynb)
+    * [LangChain](./LLMS/langchain.ipynb)
         
     
