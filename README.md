@@ -18,5 +18,7 @@ Collection of NLP courses and Mini Projects
 * [Practical Applications of LLMs](./LLMS/)
     * [OpenAI API](./LLMS/llm_1.ipynb)
     * [LangChain](./LLMS/langchain.ipynb)
+* [AI LMs & Foundation Models](./FoundModels/)
+    * [Fine-Tuning BERT](./FoundModels/bert.ipynb)
         
     
